@@ -30,19 +30,19 @@ After installing the above dependencies, you can build the project from source b
 1. Clone the repository: 
 
 ```bash
-git clone https://github.com/<your-github-username>/<your-repo-name>.git
+git clone https://github.com/pouya1991/FaceIdentifier.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd <your-repo-name>
+cd FaceIdentifier
 ```
 
 3. Build the project using Qt:
 
 ```bash
-qmake <project-file>
+qmake FaceIdentifier.pro
 make
 ```
 
